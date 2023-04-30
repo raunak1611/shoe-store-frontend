@@ -12,6 +12,7 @@ function App({ Component, pageProps }) {
     return (
         <>
             <Head>
+                
                 <title>Blink & Buy | Shoe Store</title>
                 <meta
                     name="description"
