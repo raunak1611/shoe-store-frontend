@@ -14,7 +14,7 @@ const Footer = () => {
               Find a store
             </div>
             <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
-              become a
+              become a seller
             </div>
             <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
               sign up for email
